@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="EBGaramondSC.otf.GlyphOrder.ttx"/>
+  <head src="EBGaramondSC.otf._h_e_a_d.ttx"/>
+  <hhea src="EBGaramondSC.otf._h_h_e_a.ttx"/>
+  <maxp src="EBGaramondSC.otf._m_a_x_p.ttx"/>
+  <OS_2 src="EBGaramondSC.otf.O_S_2f_2.ttx"/>
+  <name src="EBGaramondSC.otf._n_a_m_e.ttx"/>
+  <cmap src="EBGaramondSC.otf._c_m_a_p.ttx"/>
+  <post src="EBGaramondSC.otf._p_o_s_t.ttx"/>
+  <CFF src="EBGaramondSC.otf.C_F_F_.ttx"/>
+  <FFTM src="EBGaramondSC.otf.F_F_T_M_.ttx"/>
+  <GDEF src="EBGaramondSC.otf.G_D_E_F_.ttx"/>
+  <GPOS src="EBGaramondSC.otf.G_P_O_S_.ttx"/>
+  <GSUB src="EBGaramondSC.otf.G_S_U_B_.ttx"/>
+  <PfEd src="EBGaramondSC.otf.P__fE__d.ttx"/>
+  <hmtx src="EBGaramondSC.otf._h_m_t_x.ttx"/>
+</ttFont>
