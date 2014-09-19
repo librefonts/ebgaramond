@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [EBGaramond-Regular.ttf.ttx, src/otf/EBGaramondSC.otf.ttx, src/otf/EBGaramond.otf.ttx,
+  src/SFD/EBGaramondSC.sfd, src/SFD/EBGaramondSC-TTF.sfd, src/SFD/EBGaramond.sfd,
+  src/SFD/EBGaramond-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
